@@ -1,10 +1,12 @@
 # online-voting-system
 Project Installation and Setup
-
+<br>
 
 1- Clone the repository:
-
+<br>
 git clone https://github.com/Syrine-19/online-voting-system
+
+<br>
 2- Install Apache web server:
 
 sudo apt update
